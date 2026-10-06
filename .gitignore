@@ -1,0 +1,14 @@
+# Private account data
+data/accounts.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor settings
+.vscode/
+models/data/accounts.json
